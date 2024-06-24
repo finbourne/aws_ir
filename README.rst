@@ -1,4 +1,4 @@
-.. image::./resources/Finbourne_Logo_Teal.svg
+.. image:: ./resources/Finbourne_Logo_Teal.svg
 
 .. image:: https://travis-ci.org/ThreatResponse/aws_ir.svg?branch=master
     :target: https://travis-ci.org/ThreatResponse/aws_ir
